@@ -1,0 +1,72 @@
+.category-group {
+    display: flex;
+    align-items: center;
+}
+.category-group .form-check {
+    margin-right: 15px;
+}
+
+.navbar-brand img {
+    max-height: 40px;
+    width: auto;
+}
+
+.carousel-item{
+    max-height: 300px;
+}
+
+.home {
+    font-size: 30px;
+}
+
+.price{
+    font-weight: 500;
+}
+
+.card-img-top {
+    min-height: 200px;
+    object-fit: cover;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.card-text {
+    flex-grow: 1;
+}
+.price-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
+
+.btn-details {
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+}
+
+.logos img{
+    height: 20px;
+}
+
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.table-container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+.table th {
+    background-color: #f8f9fa;
+}
+.table-bordered {
+    border: 2px solid #dee2e6;
+}
